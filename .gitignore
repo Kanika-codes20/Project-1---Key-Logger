@@ -216,8 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-KEYLOGGER, log.txt
-git add .gitignore
-git commit -m "Add .gitignore to exclude untracked files"
-git push origin main
 
+KEYLOGGER, log.txt 
